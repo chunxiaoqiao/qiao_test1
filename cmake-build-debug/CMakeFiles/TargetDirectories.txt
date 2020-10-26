@@ -1,0 +1,3 @@
+/home/qiaochunxiao/github/qiao_test1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/qiaochunxiao/github/qiao_test1/cmake-build-debug/CMakeFiles/test.dir
+/home/qiaochunxiao/github/qiao_test1/cmake-build-debug/CMakeFiles/edit_cache.dir
