@@ -13,4 +13,5 @@ void test1()
     printf("test3");//
     printf("test4");//
     printf("test5");//////
+    printf("test6");//////
 }
